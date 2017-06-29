@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="com-paper-commons" />
+        <module name="com-paper-dal" />
+        <module name="com-paper-manger" />
+        <module name="com-paper-service" />
+        <module name="com-paper-service-facade" />
+        <module name="com-paper-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com-paper-commons" target="1.5" />
+      <module name="com-paper-control" target="1.5" />
+      <module name="com-paper-dal" target="1.5" />
+      <module name="com-paper-manger" target="1.5" />
+      <module name="com-paper-service" target="1.5" />
+      <module name="com-paper-service-facade" target="1.5" />
+      <module name="com-paper-web" target="1.5" />
+      <module name="compaperOnlinecontrol" target="1.5" />
+      <module name="control" target="1.5" />
+      <module name="paperOnline" target="1.5" />
+      <module name="service" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

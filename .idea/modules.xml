@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com-paper-commons/com-paper-commons.iml" filepath="$PROJECT_DIR$/com-paper-commons/com-paper-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-paper-dal/com-paper-dal.iml" filepath="$PROJECT_DIR$/com-paper-dal/com-paper-dal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-paper-manager/com-paper-manager.iml" filepath="$PROJECT_DIR$/com-paper-manager/com-paper-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-paper-service/com-paper-service.iml" filepath="$PROJECT_DIR$/com-paper-service/com-paper-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-paper-service-facade/com-paper-service-facade.iml" filepath="$PROJECT_DIR$/com-paper-service-facade/com-paper-service-facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-paper-web/com-paper-web.iml" filepath="$PROJECT_DIR$/com-paper-web/com-paper-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paperOnline.iml" filepath="$PROJECT_DIR$/paperOnline.iml" />
+    </modules>
+  </component>
+</project>
